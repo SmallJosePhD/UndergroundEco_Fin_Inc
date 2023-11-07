@@ -19,7 +19,7 @@ Before the analysis, the Principal Component Analysis (PCA) was adopted to gener
 - `FI development data.dta` - The panel data used for generating the FII
 - `PCA DO File.do` - The do file for performing the PCA
 
-##**Research report**
+## **Research report**
 The research project has been accepted for publication by **Economic Change and Restructuring**
 
 Please cite:
