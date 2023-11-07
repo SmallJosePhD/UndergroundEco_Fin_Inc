@@ -18,3 +18,10 @@ Before the analysis, the Principal Component Analysis (PCA) was adopted to gener
 - `Estimation DO FIle.do` - The do file for PURT, cointegration test, DFE, MG, and PMG estimation, and D-H causality test
 - `FI development data.dta` - The panel data used for generating the FII
 - `PCA DO File.do` - The do file for performing the PCA
+
+##**Research report**
+The research project has been accepted for publication by **Economic Change and Restructuring**
+
+Please cite:
+Sakanko, M.A., **David, J.**, Abu, N., & Gamal, A.A.M. (2023). Financial inclusion and underground economy nexus in West Africa: Evidence from dynamic heterogeneous panel techniques. _Economic Change and Restructuring_.
+
